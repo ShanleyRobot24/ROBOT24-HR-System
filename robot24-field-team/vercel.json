@@ -1,0 +1,5 @@
+{
+  "crons": [
+    { "path": "/api/process-invoice?cron=backup", "schedule": "0 4 * * 1" }
+  ]
+}
